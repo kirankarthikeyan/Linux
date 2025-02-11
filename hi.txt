@@ -1,5 +1,7 @@
 hello
 conflict
+merging
+
 
 
 
